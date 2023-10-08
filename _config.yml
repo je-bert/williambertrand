@@ -1,28 +1,28 @@
-# Base configs
-baseurl: "https://photography.rampatra.com"
-#baseurl: "" # Comment the above line and uncomment this to test the website locally
+# Configurations de base
+baseurl: "https://williambertrand.ca"
+#baseurl: "" # Commentez la ligne ci-dessus et décommentez celle-ci pour tester le site localement
 image_fulls_loc: "/images/fulls"
 image_thumbs_loc: "/images/thumbs"
-google_analytics: "UA-46465113-2"
+#google_analytics: "UA-46465113-2"
 
-# UI configs
-title: "Photography by Ram Patra"
-subtitle: "See the world through my eyes!"
-author: "Ram Patra"
+# Configurations de l'interface utilisateur
+title: "Photographie par William Bertrand"
+subtitle: "Découvrez le monde à travers mon objectif !"
+author: "William Bertrand"
 header:
- title: "Photography"
- subtitle: "by Ram Patra"
+ title: "Photographie"
+ subtitle: "par William Bertrand"
 footer:
- name: "Hey there, my name is Ram"
- bio: "I am a developer and a tech aficionado from India. Love making teeny tiny apps solving tiny problems in life and now learning photography."
+ name: "Bonjour, je m'appelle William"
+ bio: "Je suis photographe passionné, capturant des moments uniques à travers mon objectif. Explorez mon travail et découvrez le monde à travers mes yeux."
  github: "Want a website like this for yourself for free? Just <a href=\"https://github.com/ramswaroop/photography\">fork this repo on github</a> ;)"
 web_design: "AJ"
 # Configure which exif data to display
 # Tag is the actual exif tag, icon is a fontawesome icon. Use JSON notation without line breaks
 exif: '[{"tag": "Model", "icon": "camera-retro"}, {"tag": "FNumber", "icon": "dot-circle-o"}, {"tag": "ExposureTime", "icon": "clock-o"}, {"tag": "ISOSpeedRatings", "icon": "info-circle"}]'
 social_urls:
-  twitter: "https://www.twitter.com/ram__patra"
-  instagram: "https://www.instagram.com/ram_patra"
-  dribbble: "https://dribbble.com/rampatra"
-  linkedin: "https://in.linkedin.com/in/ram-patra"
-  github: "https://www.github.com/rampatra"
+  twitter: "https://www.twitter.com/williambertrand"
+  instagram: "https://www.instagram.com/williambertrand"
+  dribbble: "https://dribbble.com/williambertrand"
+  linkedin: "https://www.linkedin.com/in/williambertrand"
+  github: "https://www.github.com/williambertrand"
