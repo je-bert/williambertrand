@@ -1,5 +1,5 @@
 # Configurations de base
-baseurl: "https://williambertrand.ca"
+baseurl: "https://je-bert.github.io/williambertrand/"
 #baseurl: "" # Commentez la ligne ci-dessus et décommentez celle-ci pour tester le site localement
 image_fulls_loc: "/images/fulls"
 image_thumbs_loc: "/images/thumbs"
@@ -21,8 +21,9 @@ web_design: "AJ"
 # Tag is the actual exif tag, icon is a fontawesome icon. Use JSON notation without line breaks
 exif: '[{"tag": "Model", "icon": "camera-retro"}, {"tag": "FNumber", "icon": "dot-circle-o"}, {"tag": "ExposureTime", "icon": "clock-o"}, {"tag": "ISOSpeedRatings", "icon": "info-circle"}]'
 social_urls:
-  twitter: "https://www.twitter.com/williambertrand"
-  instagram: "https://www.instagram.com/williambertrand"
-  dribbble: "https://dribbble.com/williambertrand"
-  linkedin: "https://www.linkedin.com/in/williambertrand"
-  github: "https://www.github.com/williambertrand"
+  # twitter: "https://www.twitter.com/williambertrand"
+  instagram: "https://www.instagram.com/frozerty_"
+  # dribbble: "https://dribbble.com/williambertrand"
+  # linkedin: "https://www.linkedin.com/in/williambertrand"
+  # github: "https://www.github.com/williambertrand"
+  vsco: "https://vsco.co/willibert"
