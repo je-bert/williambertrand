@@ -1,5 +1,5 @@
 # Configurations de base
-baseurl: "https://je-bert.github.io/williambertrand/"
+baseurl: "http://williambertrand.ca/"
 #baseurl: "" # Commentez la ligne ci-dessus et décommentez celle-ci pour tester le site localement
 image_fulls_loc: "/images/fulls"
 image_thumbs_loc: "/images/thumbs"
