@@ -122,26 +122,36 @@ layout: default
             <div>
                 <section>
                     <h2>Me contacter</h2>
-                    <form method="post" action="#">
-                        <div class="field half first">
-                            <input type="text" name="name" id="name" placeholder="Nom" />
+
+                    <form class="gform" method="post"
+                        action="https://script.google.com/macros/s/AKfycbzz9ddQIzup_jjlesFJdlCTDgwtLNmbieuGktVLIGBv9DvHGPBCi5ceAzCMp3RFIKXq9A/exec">
+                        <div style="display:none;" class="thankyou_message">
+                            <!-- You can customize the thankyou message by editing the code below -->
+                            <h2>Merci de m'avoir contacté. Je vous répondrai dès que possible!
+                            </h2>
                         </div>
-                        <div class="field half">
-                            <input type="text" name="email" id="email" placeholder="Courriel" />
+                        <div class="form-elements">
+                            <div class="field half first">
+                                <input required type="text" name="name" id="name" placeholder="Nom" />
+                            </div>
+                            <div class="field half">
+                                <input required type="email" name="email" id="email" placeholder="Courriel" />
+                            </div>
+                            <div class="field">
+                                <textarea name="message" id="message" rows="4" placeholder="Message"></textarea>
+                            </div>
+                            <ul class="actions">
+                                <li><input required type="submit" value="Envoyer" class="special" /></li>
+                                <li><input type="reset" value="Réinitialiser" /></li>
+                            </ul>
                         </div>
-                        <div class="field">
-                            <textarea name="message" id="message" rows="4" placeholder="Message"></textarea>
-                        </div>
-                        <ul class="actions">
-                            <li><input type="submit" value="Envoyer" class="special" /></li>
-                            <li><input type="reset" value="Réinitialiser" /></li>
-                        </ul>
                     </form>
                 </section>
             </div>
         </div>
     </footer>
 </div>
+
 <style>
     .icons {
         display: flex;

@@ -6,12 +6,12 @@ image_thumbs_loc: "/images/thumbs"
 #google_analytics: "UA-46465113-2"
 
 # Configurations de l'interface utilisateur
-title: "Photographie par William Bertrand"
-subtitle: "Découvrez le monde à travers mon objectif !"
+title: "William Bertrand"
+subtitle: "Découvrez le monde à travers mon objectif!"
 author: "William Bertrand"
 header:
- title: "Photographie"
- subtitle: "par William Bertrand"
+ title: "William Bertrand"
+ subtitle: ""
 footer:
  name: "Bonjour, je m'appelle William"
  bio: "Je suis photographe passionné, capturant des moments uniques à travers mon objectif. Explorez mon travail et découvrez le monde à travers mes yeux."
